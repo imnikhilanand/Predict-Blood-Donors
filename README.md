@@ -1,0 +1,2 @@
+# Predict-Blood-Donors
+In this project we used a data-set that has four attributes suggests that there is a pattern in a person donating blood and hence having a value for each of them we can predict if the person will donate blood. This prediction task is done by the Regression. These attributes are Recency - months since last donation, Frequency - total number of donation, Monetary - total blood donated in c.c., Time - months since first donation. These conditions are used to determine whether a person will donate blood based on these conditions.
